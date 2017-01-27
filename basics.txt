@@ -27,6 +27,8 @@ git remote add "name" "url of repository"  : here name = orgin and url is the ur
 
 git pull origin master : for changing in 
 
+git push -u origin master
+
 git clone "url" :
 
 git branch "name"  :
